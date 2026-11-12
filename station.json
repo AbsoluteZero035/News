@@ -1,0 +1,35 @@
+{
+ "format": "myradio/station-1",
+ "name": "速報ラジオ",
+ "description": "AI・IT・プログラミングの、きのうの気になるニュースを、毎朝お届けします。",
+ "tagline": "AI・IT 朝のニュース",
+ "logo": "logo.svg",
+ "url": "https://absolutezero035.github.io/News/",
+ "repo": "https://github.com/AbsoluteZero035/News",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "06:50",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "宙夢が指定したキャラクター画像をもとにしたキャスターです"
+ },
+ "credits": [
+  "声：音声合成（Muse / TTS）",
+  "キャラクター：宙夢が指定したAI生成画像",
+  "プレーヤー：monoradio102/myradio（MIT License）をテンプレートとして使用"
+ ],
+ "caster": "声：音声合成",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true
+}

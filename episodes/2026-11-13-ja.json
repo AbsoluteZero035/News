@@ -1,0 +1,239 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-13",
+ "lang": "ja",
+ "title": "AlphaGenome 2とGeminiのCarPlay対応",
+ "opening": [
+  {
+   "say": "おはようございます、そくほうラジオです。十一月十三日金曜日の朝のニュースをお届けします。",
+   "show": "おはようございます、速報ラジオです。11月13日金曜日の朝のニュースをお届けします。"
+  },
+  {
+   "say": "今日は全部で四本、エーアイの話題を中心にいきますよ。",
+   "show": "今日は全部で4本、AIの話題を中心にいきますよ。"
+  }
+ ],
+ "news": [
+  {
+   "label": "AlphaGenome 2を発表",
+   "points": [
+    "細胞種ごとにDNA変異の影響を予測",
+    "Google DeepMindが発表"
+   ],
+   "url": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+   "lines": [
+    {
+     "say": "まずはグーグル ディープマインドから。ディーエヌエーの変異の影響を予測するエーアイ、アルファゲノム ツーを発表しました。",
+     "show": "まずはGoogle DeepMindから。DNAの変異の影響を予測するAI、AlphaGenome 2を発表しました。"
+    },
+    {
+     "say": "細胞の種類ごとに影響を予測できるのが特徴で、病気の研究などへの応用が期待されます。",
+     "show": "細胞の種類ごとに影響を予測できるのが特徴で、病気の研究などへの応用が期待されます。"
+    }
+   ],
+   "link": {
+    "url": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+    "title": "Google DeepMind（@GoogleDeepMind）の投稿",
+    "site": "X",
+    "description": "AlphaGenome 2の発表投稿"
+   }
+  },
+  {
+   "label": "GeminiがCarPlayに対応",
+   "points": [
+    "Apple CarPlayでGeminiが利用可能に",
+    "全iOSユーザーへ展開"
+   ],
+   "url": "https://x.com/GeminiApp/status/2120626195033473228",
+   "lines": [
+    {
+     "say": "続いてジェミニの話題です。グーグルのエーアイ、ジェミニがアップルのカープレイに対応しました。",
+     "show": "続いてGeminiの話題です。GoogleのAI、GeminiがAppleのCarPlayに対応しました。"
+    },
+    {
+     "say": "車の中でもジェミニが使えるようになり、アイフォーンのユーザー全体へ展開されています。",
+     "show": "車の中でもGeminiが使えるようになり、iPhoneのユーザー全体へ展開されています。"
+    }
+   ],
+   "link": {
+    "url": "https://x.com/GeminiApp/status/2120626195033473228",
+    "title": "Google Gemini（@GeminiApp）の投稿",
+    "site": "X",
+    "description": "GeminiのCarPlay対応を伝える投稿"
+   }
+  },
+  {
+   "label": "Codex CLI 0.167.2",
+   "points": [
+    "Vertex AIでの増分ツール更新が既定に",
+    "ストリーミング遅延を削減"
+   ],
+   "url": "https://x.com/Codex_Changelog/status/2120654325446070509",
+   "lines": [
+    {
+     "say": "プログラミングの話題も一つ。コーデックス シーエルアイの新しいバージョン、ゼロ点一六七点二が出ました。",
+     "show": "プログラミングの話題も一つ。Codex CLIの新しいバージョン、0.167.2が出ました。"
+    },
+    {
+     "say": "バーテックス エーアイでのツール更新の仕組みが変わり、ストリーミングの遅延が減っているそうです。",
+     "show": "Vertex AIでのツール更新の仕組みが変わり、ストリーミングの遅延が減っているそうです。"
+    }
+   ],
+   "link": {
+    "url": "https://x.com/Codex_Changelog/status/2120654325446070509",
+    "title": "Codex Changelog（@Codex_Changelog）の投稿",
+    "site": "X",
+    "description": "Codex CLI 0.167.2の更新内容"
+   }
+  },
+  {
+   "label": "Google Labsの新実験Tabletop",
+   "points": [
+    "リンクとファイルを共有スペースに集約",
+    "地図・座席表などのツールをその場で生成"
+   ],
+   "url": "https://x.com/GoogleLabs/status/2120549258692882702",
+   "lines": [
+    {
+     "say": "最後はグーグル ラボの新しい実験、テーブルトップです。リンクやファイルを共有スペースに集められます。",
+     "show": "最後はGoogle Labsの新しい実験、Tabletopです。リンクやファイルを共有スペースに集められます。"
+    },
+    {
+     "say": "集めた材料から、地図や座席表のようなツールをその場で作れるのが面白いところです。",
+     "show": "集めた材料から、地図や座席表のようなツールをその場で作れるのが面白いところです。"
+    }
+   ],
+   "link": {
+    "url": "https://x.com/GoogleLabs/status/2120549258692882702",
+    "title": "Google Labs（@GoogleLabs）の投稿",
+    "site": "X",
+    "description": "新実験Tabletopの発表投稿"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日のニュースはここまで。そくほうラジオは毎朝、エーアイとアイティーの話題をお届けします。",
+   "show": "今日のニュースはここまで。速報ラジオは毎朝、AIとITの話題をお届けします。"
+  },
+  {
+   "say": "それでは、よい一日を。",
+   "show": "それでは、よい一日を。"
+  }
+ ],
+ "highlight": 0,
+ "seconds": 76.16,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.032,
+   "show": "おはようございます、速報ラジオです。11月13日金曜日の朝のニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 7.312,
+   "end": 11.272,
+   "show": "今日は全部で4本、AIの話題を中心にいきますよ。",
+   "part": 0
+  },
+  {
+   "start": 11.552,
+   "end": 18.104,
+   "show": "まずはGoogle DeepMindから。DNAの変異の影響を予測するAI、AlphaGenome 2を発表しました。",
+   "part": 1
+  },
+  {
+   "start": 18.384,
+   "end": 25.224,
+   "show": "細胞の種類ごとに影響を予測できるのが特徴で、病気の研究などへの応用が期待されます。",
+   "part": 1
+  },
+  {
+   "start": 25.504,
+   "end": 32.752,
+   "show": "続いてGeminiの話題です。GoogleのAI、GeminiがAppleのCarPlayに対応しました。",
+   "part": 2
+  },
+  {
+   "start": 33.032,
+   "end": 39.392,
+   "show": "車の中でもGeminiが使えるようになり、iPhoneのユーザー全体へ展開されています。",
+   "part": 2
+  },
+  {
+   "start": 39.672,
+   "end": 46.824,
+   "show": "プログラミングの話題も一つ。Codex CLIの新しいバージョン、0.167.2が出ました。",
+   "part": 3
+  },
+  {
+   "start": 47.104,
+   "end": 52.936,
+   "show": "Vertex AIでのツール更新の仕組みが変わり、ストリーミングの遅延が減っているそうです。",
+   "part": 3
+  },
+  {
+   "start": 53.216,
+   "end": 60.344,
+   "show": "最後はGoogle Labsの新しい実験、Tabletopです。リンクやファイルを共有スペースに集められます。",
+   "part": 4
+  },
+  {
+   "start": 60.624,
+   "end": 66.816,
+   "show": "集めた材料から、地図や座席表のようなツールをその場で作れるのが面白いところです。",
+   "part": 4
+  },
+  {
+   "start": 67.096,
+   "end": 73.408,
+   "show": "今日のニュースはここまで。速報ラジオは毎朝、AIとITの話題をお届けします。",
+   "part": 5
+  },
+  {
+   "start": 73.688,
+   "end": 76.16,
+   "show": "それでは、よい一日を。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.272
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 11.552,
+   "end": 25.224
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 25.504,
+   "end": 39.392
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 39.672,
+   "end": 52.936
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 53.216,
+   "end": 66.816
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 67.096,
+   "end": 76.16
+  }
+ ],
+ "made_at": "2026-11-12T23:58:17"
+}

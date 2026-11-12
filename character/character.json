@@ -1,0 +1,51 @@
+{
+ "format": "myradio/character-1",
+ "type": "sprites",
+ "size": [
+  736,
+  942
+ ],
+ "background": "#211d33",
+ "base": "base.png",
+ "parts": {
+  "mouth_half": {
+   "src": "mouth_half.png",
+   "x": 272,
+   "y": 435
+  },
+  "mouth_open": {
+   "src": "mouth_open.png",
+   "x": 272,
+   "y": 435
+  },
+  "blink": {
+   "src": "blink.png",
+   "x": 205,
+   "y": 373
+  },
+  "smile_mouth": {
+   "src": "smile_mouth.png",
+   "x": 272,
+   "y": 435
+  },
+  "half_blink": {
+   "src": "half_blink.png",
+   "x": 205,
+   "y": 373
+  }
+ },
+ "mouth": {
+  "1": "mouth_half",
+  "2": "mouth_open"
+ },
+ "eye": {
+  "blink": "blink",
+  "half": "half_blink"
+ },
+ "expressions": {
+  "smile": {
+   "mouth": "smile_mouth"
+  }
+ },
+ "note": "宙夢が指定したキャラクター画像（AI生成のちびキャラ）をもとに作成。base.png に、口（mouth_*）と目（blink・half_blink）の小さな画像を x, y の位置に重ねる"
+}
